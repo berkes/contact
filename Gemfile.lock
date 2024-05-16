@@ -56,7 +56,8 @@ GEM
     regexp_parser (2.4.0)
     rerun (0.13.1)
       listen (~> 3.0)
-    rexml (3.2.5)
+    rexml (3.2.8)
+      strscan (>= 3.0.9)
     rubocop (1.29.1)
       parallel (~> 1.10)
       parser (>= 3.1.0.0)
@@ -79,6 +80,7 @@ GEM
     sshkit (1.21.2)
       net-scp (>= 1.1.2)
       net-ssh (>= 2.8.0)
+    strscan (3.1.0)
     tilt (2.0.11)
     unicode-display_width (2.1.0)
 
